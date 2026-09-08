@@ -20,10 +20,10 @@
 ```python
 class GabrieleCorti:
     role     = "IT student · final year"
-    school   = "Istituto Tecnico Informatico — Lecco, Italy"
+    school   = "IIS Badoni — Lecco, Italy"
     writes   = ["Python", "C", "Java", "JavaScript"]
     designs  = ["Illustrator", "Photoshop", "Premiere Pro", "InDesign"]
-    runs_on  = ["Linux", "Git", "JetBrains", "too much coffee"]
+    runs_on  = ["Linux", "Git", "JetBrains"]
 
     def superpower(self):
         """Most devs need a designer. Most designers need a dev.
@@ -38,7 +38,8 @@ class GabrieleCorti:
 ```diff
 + Finishing my final year at ITIS and heading toward my diploma
 + Turning school projects into things that actually run
-+ Sharpening algorithms and data structures in Python and C
++ Sharpening algorithms and data structures in C and java
+! Future projects: IT university
 ! Looking for: an internship or junior role where code meets design
 ```
 
