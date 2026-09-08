@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Gabriele%20Corti&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=I%20write%20the%20code%20and%20I%20design%20how%20it%20looks&descSize=18&descAlignY=53&animation=fadeIn" width="100%" alt="Gabriele Corti" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=650&height=42&lines=Final-year+IT+student+in+Lecco%2C+Italy;Backend+logic+in+Python%2C+C+and+Java;Frontend+in+HTML%2C+CSS+and+JavaScript;Adobe+CC+since+before+I+could+compile;1.5+months+shipping+code+in+a+real+dev+team" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=650&height=42&lines=Final-year+IT+student+in+Lecco%2C+Italy;Backend+logic+in+Python%2C+C+and+Java;Frontend+in+HTML%2C+CSS+and+JavaScript;Adobe+CC+since+before+I+could+compile;Software+developer+intern+at+Easynet+Group" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@ class GabrieleCorti:
     school   = "Istituto Tecnico Informatico — Lecco, Italy"
     writes   = ["Python", "C", "Java", "JavaScript"]
     designs  = ["Illustrator", "Photoshop", "Premiere Pro", "InDesign"]
-    runs_on  = ["Linux", "Git", "VS Code", "too much coffee"]
+    runs_on  = ["Linux", "Git", "JetBrains", "too much coffee"]
 
     def superpower(self):
         """Most devs need a designer. Most designers need a dev.
@@ -54,17 +54,19 @@ class GabrieleCorti:
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" alt="Python, C, Java" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=pycharm,clion,idea,webstorm&theme=dark" alt="PyCharm, CLion, IntelliJ IDEA, WebStorm" />
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" alt="VS Code, Git, GitHub, Linux" />
 
 <br/>
 
 **Python · C · Java · JavaScript**
 
-<sub>HTML5 · CSS3 · Git · Linux · VS Code</sub>
+<sub>PyCharm · CLion · IntelliJ IDEA · WebStorm<br/>VS Code · Git · Linux</sub>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -73,15 +75,21 @@ class GabrieleCorti:
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ai,ps&theme=dark" alt="Illustrator and Photoshop" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/adobe-illustrator.svg" height="48" alt="Illustrator" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/adobe-photoshop.svg" height="48" alt="Photoshop" />
 
-<img src="https://skillicons.dev/icons?i=pr&theme=dark" alt="Premiere Pro" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/adobe-premiere.svg" height="48" alt="Premiere Pro" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/adobe-indesign.svg" height="48" alt="InDesign" />
 
 <br/>
 
-**Illustrator · Photoshop · Premiere Pro**
+**Illustrator · Photoshop**
+<br/>
+**Premiere Pro · InDesign**
 
-<sub>Plus InDesign for print layouts<br/>and editorial work</sub>
+<sub>Brand and layout work, photo retouching,<br/>video editing and print-ready editorial design</sub>
 
 </td>
 </tr>
@@ -100,8 +108,10 @@ class GabrieleCorti:
 
 > ### `▍` Software Developer — Internship
 >
+> **[Easynet Group](https://www.easynet.group/)** · Lecco, Italy
+>
 > <img src="https://img.shields.io/badge/Duration-1.5%20months-6366F1?style=flat-square" />
-> <img src="https://img.shields.io/badge/Team-Software%20Development-8B5CF6?style=flat-square" />
+> <img src="https://img.shields.io/badge/Role-Software%20Developer-8B5CF6?style=flat-square" />
 > <img src="https://img.shields.io/badge/First-real%20codebase-EC4899?style=flat-square" />
 >
 > My first time writing code that someone other than a teacher would run.
@@ -114,26 +124,11 @@ class GabrieleCorti:
 
 <br/>
 
-## 📊 GitHub in numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriele-Cortii&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=EC4899&text_color=808080&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele-Cortii&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=808080&langs_count=8&cache_seconds=86400" height="165" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Gabriele-Cortii&hide_border=true&background=00000000&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=808080&dates=6B7280&currStreakNum=EC4899&sideNums=808080" height="165" alt="Streak" />
-
-</div>
-
-<br/>
-
 ## 📫 Let's talk
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gabriele-corti">
+<a href="https://www.linkedin.com/in/gabriele-corti-321242303/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/gabriele.cortii">
