@@ -21,7 +21,7 @@
 class GabrieleCorti:
     role     = "IT student · final year"
     school   = "IIS Badoni — Lecco, Italy"
-    writes   = ["Python", "C", "Java", "JavaScript"]
+    writes   = ["Python", "C", "Java", "HTML", "CSS", "JavaScript"]
     designs  = ["Illustrator", "Photoshop", "Premiere Pro", "InDesign"]
     runs_on  = ["Linux", "Git", "JetBrains"]
 
