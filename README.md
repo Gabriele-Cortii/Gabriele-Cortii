@@ -22,7 +22,7 @@ class GabrieleCorti:
     school   = "IIS Badoni — Lecco, Italy"
     writes   = ["Python", "C", "Java", "HTML", "CSS", "JavaScript"]
     designs  = ["Illustrator", "Photoshop", "Premiere Pro", "InDesign"]
-    runs_on  = ["Linux", "Git", “Visual Studio Code”, "JetBrains"]
+    runs_on  = ["Linux", "Git", "Visual Studio Code", "JetBrains"]
 
     def superpower(self):
         """Most devs need a designer. Most designers need a dev.
@@ -137,7 +137,6 @@ class GabrieleCorti:
 <a href="https://instagram.com/gabriele.cortii">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://github.com/Gabriele-Cortii">
 
 <br/><br/>
 
