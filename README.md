@@ -128,6 +128,9 @@ class GabrieleCorti:
 
 <div align="center">
 
+<a href="mailto:gabri08.corti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <a href="https://www.linkedin.com/in/gabriele-corti-321242303/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
