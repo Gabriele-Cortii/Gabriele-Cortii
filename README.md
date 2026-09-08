@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/Lecco-Italy-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/ITIS-5th%20year-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" alt="School" />
 <img src="https://img.shields.io/badge/Open%20to-internships-EC4899?style=for-the-badge" alt="Status" />
-<img src="https://komarev.com/ghpvc/?username=Gabriele-Cortii&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
