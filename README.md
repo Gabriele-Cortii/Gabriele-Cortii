@@ -1,18 +1,20 @@
+<!-- README del profilo GitHub. header.svg, split.svg e divider.svg devono stare nella root del repo, accanto a questo file. -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Gabriele%20Corti&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=I%20write%20the%20code%20and%20I%20design%20how%20it%20looks&descSize=18&descAlignY=53&animation=fadeIn" width="100%" alt="Gabriele Corti" />
+<img src="header.svg" width="100%" alt="Gabriele Corti — I write the code and I design how it looks" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=650&height=42&lines=Final-year+IT+student+in+Lecco%2C+Italy;Backend+logic+in+Python%2C+C+and+Java;Frontend+in+HTML%2C+CSS+and+JavaScript;Adobe+CC+since+before+I+could+compile;Software+developer+intern+at+Easynet+Group" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=A855F7&center=true&vCenter=true&random=false&width=650&height=42&lines=Final-year+IT+student+in+Lecco%2C+Italy;Backend+logic+in+Python%2C+C+and+Java;Frontend+in+HTML%2C+CSS+and+JavaScript;Adobe+CC+since+before+I+could+compile;Software+developer+intern+at+Easynet+Group" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Lecco-Italy-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/ITIS-5th%20year-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" alt="School" />
-<img src="https://img.shields.io/badge/Open%20to-internships-EC4899?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Lecco-Italy-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=2E1065" alt="Location" />
+<img src="https://img.shields.io/badge/ITIS-5th%20year-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=2E1065" alt="School" />
+<img src="https://img.shields.io/badge/Open%20to-internships-C026D3?style=for-the-badge&logo=handshake&logoColor=white&labelColor=2E1065" alt="Status" />
+
+<img src="divider.svg" width="100%" alt="" />
 
 </div>
-
-<br/>
 
 ## 👋 whoami
 
@@ -30,7 +32,7 @@ class GabrieleCorti:
         return self.writes + self.designs
 ```
 
-<br/>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 🚀 Currently
 
@@ -42,9 +44,15 @@ class GabrieleCorti:
 ! Looking for: an internship or junior role where code meets design
 ```
 
-<br/>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## ⚡ Two sides of the same screen
+
+<div align="center">
+
+<img src="split.svg" width="100%" alt="Code on one side, design on the other" />
+
+</div>
 
 <table width="100%">
 <tr>
@@ -100,9 +108,9 @@ class GabrieleCorti:
 > **Code without design ships ugly. Design without code stays a mockup.**
 > I'd rather do both.
 
-</div>
+<img src="divider.svg" width="100%" alt="" />
 
-<br/>
+</div>
 
 ## 💼 Experience
 
@@ -110,9 +118,9 @@ class GabrieleCorti:
 >
 > **[Easynet Group](https://www.easynet.group/)** · Lecco, Italy
 >
-> <img src="https://img.shields.io/badge/Duration-1.5%20months-6366F1?style=flat-square" />
-> <img src="https://img.shields.io/badge/Role-Software%20Developer-8B5CF6?style=flat-square" />
-> <img src="https://img.shields.io/badge/First-real%20codebase-EC4899?style=flat-square" />
+> <img src="https://img.shields.io/badge/Duration-1.5%20months-6D28D9?style=flat-square&labelColor=2E1065" />
+> <img src="https://img.shields.io/badge/Role-Software%20Developer-8B5CF6?style=flat-square&labelColor=2E1065" />
+> <img src="https://img.shields.io/badge/First-real%20codebase-C026D3?style=flat-square&labelColor=2E1065" />
 >
 > My first time writing code that someone other than a teacher would run.
 > A real development team, real requirements, real code review, real deadlines —
@@ -122,20 +130,20 @@ class GabrieleCorti:
 > else's codebase before touching it, and the gap between *it works on my
 > machine* and *it ships*.
 
-<br/>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 📫 Let's talk
 
 <div align="center">
 
 <a href="mailto:gabri08.corti@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2E1065" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/gabriele-corti-321242303/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2E1065" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/gabriele.cortii">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-C026D3?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2E1065" alt="Instagram" />
 </a>
 
 <br/><br/>
@@ -145,4 +153,4 @@ If it needs to be built <i>and</i> look good, I'm interested.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=130&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:7C3AED,100:C026D3&height=130&section=footer" width="100%" alt="footer" />
